@@ -1,0 +1,25 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Mussarela",
+      "image": "https://media.discordapp.net/attachments/747630504031027210/888205340993290260/gramute.png",
+      "description": "A Pizza de Mussarela é coberta com molho de tomate, queijo tipo mussarela, azeitonas pretas e orégano e massa com fermentação natural, oferece mais sabor e qualidade à sua mesa. Aproveite! 01 caixa contendo 12 cartuchos de 460g, cada. Peso total de 5,52kg.",
+      "price": 101.99
+    },
+    {
+      "id": "2",
+      "name": "Calabresa",
+      "image": "https://media.discordapp.net/attachments/747630504031027210/888205340993290260/gramute.png",
+      "description": "Uma deliciosa combinação de Linguiça Calabresa, rodelas de cebolas frescas, azeitonas pretas, mussarela, polpa de tomate, orégano e massa especial garante um sabor único à Pizza de Calabresa Pif Paf. 12 cartuchos de 460g, cada. Peso total de 5,52kg.",
+      "price": 125.5
+    },
+    {
+      "id": "3",
+      "name": "Portuguesa",
+      "image": "https://media.discordapp.net/attachments/747630504031027210/888205340993290260/gramute.png",
+      "description": "Preparada com a deliciosa combinação de ingredientes como ervilha, azeitona, molho de tomate, cebola, ovos, queijo, linguiça calabresa e orégano, a Pizza Portuguesa é sucesso em qualquer mesa. 01 caixa contendo 12 cartuchos de 460g, cada. Peso total de 5,52kg.",
+      "price": 150.2
+    }
+  ]
+}
